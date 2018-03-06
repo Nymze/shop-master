@@ -6,6 +6,7 @@ class CreateOrders < ActiveRecord::Migration[5.1]
       t.decimal :shipping, precision: 12, scale: 3
       t.decimal :total, precision: 12, scale: 3
       t.references :order_status, index: true
+      
 
       t.timestamps
     end

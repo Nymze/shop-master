@@ -1,7 +1,9 @@
 class Order < ActiveRecord::Base
   belongs_to :user
-  belongs_to :order_status
-  has_many :order_items
+ 
+  has_many :order_items, dependent: :destroy
+  has_many :products, through: :order_items
+
   before_create :set_order_status
   before_save :update_subtotal
   

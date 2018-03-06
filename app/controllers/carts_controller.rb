@@ -1,12 +1,13 @@
 class CartsController < ApplicationController
-	before_action :authenticate_user!
+
+ 
   def show
     @order_items = current_order.order_items
   end
 
 
   def create
-  	@order_items = current_order.build(cart_params)
+  	@order_items = current_order.order_items
   	current_order.save
 
   end 
