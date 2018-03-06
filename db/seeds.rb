@@ -19,14 +19,14 @@ Product.create! id: 9, name: "Greyfruit", price: 1.99, active: true
 Product.create! id: 10, name: "Tomato", price: 0.49, active: true
 Product.create! id: 11, name: "White Widow", price: 10.00, active: true
 Product.create! id: 12, name: "Skunk", price: 14.99, active: true
-Product.create! id: 1, name: "NorthernLight", price: 12.49, active: true
-Product.create! id: 2, name: "OGkush", price: 14.29, active: true
-Product.create! id: 3, name: "Amnesia Haze", price: 15.99, active: true
-Product.create! id: 4, name: "Royal Moby", price: 9.89, active: true
-Product.create! id: 5, name: "Silver Haze", price: 11.69, active: true
-Product.create! id: 6, name: "Lemon Shining", price: 12.99, active: true
-Product.create! id: 7, name: "Haze Berry", price: 22.10, active: true
-Product.create! id: 8, name: "Royal Cheese", price: 13.19, active: true
+Product.create! id: 13, name: "NorthernLight", price: 12.49, active: true
+Product.create! id: 14, name: "OGkush", price: 14.29, active: true
+Product.create! id: 15, name: "Amnesia Haze", price: 15.99, active: true
+Product.create! id: 16, name: "Royal Moby", price: 9.89, active: true
+Product.create! id: 17, name: "Silver Haze", price: 11.69, active: true
+Product.create! id: 18, name: "Lemon Shining", price: 12.99, active: true
+Product.create! id: 19, name: "Haze Berry", price: 22.10, active: true
+Product.create! id: 20, name: "Royal Cheese", price: 13.19, active: true
 
 OrderStatus.delete_all
 OrderStatus.create! id: 1, name: "In Progress"
