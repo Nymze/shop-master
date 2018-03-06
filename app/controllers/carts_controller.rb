@@ -1,11 +1,13 @@
 class CartsController < ApplicationController
+	before_action :authenticate_user!
   def show
     @order_items = current_order.order_items
   end
 
-=begin
+
   def create
-  	@cart = current_user.carts.build(cart_params)
+  	@order_items = current_order.build(cart_params)
+  	current_order.save
 
   end 
 
@@ -14,6 +16,6 @@ class CartsController < ApplicationController
     def cart_params
       params.require(:cart).permit(:name, :state) # at :name, :state use attributes which you're getting from the form for cart!
     end
-=end
+
 
 end
