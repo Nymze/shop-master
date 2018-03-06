@@ -7,16 +7,16 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 Product.delete_all
-Product.create! id: 1, name: "Banana", price: 0.49, active: true
-Product.create! id: 2, name: "Apple", price: 0.29, active: true
-Product.create! id: 3, name: "Carton of Strawberries", price: 1.99, active: true
-Product.create! id: 4, name: "Kiwi", price: 0.89, active: true
-Product.create! id: 5, name: "Orange", price: 0.69, active: true
-Product.create! id: 6, name: "Lemon", price: 0.99, active: true
-Product.create! id: 7, name: "Coconut", price: 2.10, active: true
-Product.create! id: 8, name: "Ananas", price: 1.19, active: true
-Product.create! id: 9, name: "Greyfruit", price: 1.99, active: true
-Product.create! id: 10, name: "Tomato", price: 0.49, active: true
+Product.create! id: 1, name: "Jack Herer", price: 12.49, active: true
+Product.create! id: 2, name: "Purple Haze", price: 10.29, active: true
+Product.create! id: 3, name: "Bubba Kush", price: 13.99, active: true
+Product.create! id: 4, name: "Blueberry", price: 18.89, active: true
+Product.create! id: 5, name: "Hindu Kush", price: 15.69, active: true
+Product.create! id: 6, name: "Blue Dream", price: 24.99, active: true
+Product.create! id: 7, name: "AK 47", price: 12.10, active: true
+Product.create! id: 8, name: "Maui Waui", price: 15.19, active: true
+Product.create! id: 9, name: "White Rhino", price: 1.99, active: true
+Product.create! id: 10, name: "Afghan Kush", price: 17.49, active: true
 Product.create! id: 11, name: "White Widow", price: 10.00, active: true
 Product.create! id: 12, name: "Skunk", price: 14.99, active: true
 Product.create! id: 13, name: "NorthernLight", price: 12.49, active: true
