@@ -43,7 +43,7 @@ ActiveRecord::Schema.define(version: 20180306220001) do
     t.integer "order_status_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    
+    t.integer "user_id"
     t.index ["order_status_id"], name: "index_orders_on_order_status_id"
     t.index ["user_id"], name: "index_orders_on_user_id"
   end

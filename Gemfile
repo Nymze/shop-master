@@ -22,6 +22,7 @@ gem 'devise'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 gem "paperclip", "~> 5.2.1"
+gem 'dotenv-rails', groups: [:development, :test]
 
 
 

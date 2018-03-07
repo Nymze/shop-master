@@ -6,8 +6,8 @@ class ProductsController < ApplicationController
 
   def show
 
-  	@product = Product.find(params[:id])
-  	@similar_products = Product.select {|product| product.id != @product.id}.slice(0, 3)
+    @product = Product.find(params[:id])
+    @similar_products = Product.select {|product| product.id != @product.id}.slice(0, 3)
   end
 
   private
