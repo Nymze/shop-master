@@ -6,7 +6,6 @@ class OrderItem < ActiveRecord::Base
   validate :product_present
   validate :order_present
 
-  before_save :finalize
 
   def unit_price
     if persisted?

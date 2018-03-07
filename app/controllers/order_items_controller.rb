@@ -25,4 +25,10 @@ private
     params.require(:order_item).permit(:quantity, :product_id, :user_id)
   end
 
+  def current_order
+    
+      @current_order = order.find(session[:current_order])
+    
+  end
+
 end
