@@ -16,9 +16,9 @@ A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de l
 
 ***
 
-**Exemple d'app Heroku:
+**Exemple d'app Heroku:**
 * [Le Récif tranquille](https://tranquil-reef-30264.herokuapp.com/).
-* [L'obscure forêt sauvage](https://arcane-wildwood-56064.herokuapp.com).**
+* [L'obscure forêt sauvage](https://arcane-wildwood-56064.herokuapp.com).
 
 ***
 
