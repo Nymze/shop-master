@@ -3,12 +3,12 @@
 Terminal > cd shop-master <br/>
 **git branch** fin d'être sur qu'on soit sur la branche "Master".<br/>
 <br/>
-`**git pull**` - Permet une *mise à jour* de la branche actuelle *(d'où l'importance du 'git branch')* du Repository présent en local sur notre ordi.<br/>
+**`git pull`** - Permet une *mise à jour* de la branche actuelle *(d'où l'importance du 'git branch')* du Repository présent en local sur notre ordi.<br/>
 <br/>
-**git checkout NomDeLaOuOnVeutAller** - On indique qu'on va vers: 'Master', ou vers 'NomDeMaBranche'. <br/>
+**`git checkout NomDeLaOuOnVeutAller`** - On indique qu'on va vers: 'Master', ou vers 'NomDeMaBranche'. <br/>
 A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de là où on est,et nous y déplacer directement dedans.<br/>
 <br/>
-**On fais nos modifs** - On fais notre blabla dans l'éditeur de texte, sur Github directement, dans la console...etc.<br/>
+**`On fais nos modifs`** - On fais notre blabla dans l'éditeur de texte, sur Github directement, dans la console...etc.<br/>
 <br/>
 **git add .** - Afin d'*ajouter* tous (.) les changements, de la branche dans lequel on se trouve.<br/>
 <br/>
