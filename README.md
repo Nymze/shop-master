@@ -1,6 +1,6 @@
 # Debut de journée - Github
 
-Terminal > cd shop-master <br/>
+**Terminal > cd shop-master** <br/>
 * **`git branch`** fin d'être sur qu'on soit sur la branche "Master".<br/>
 * **`git pull`** - Permet une *mise à jour* de la branche actuelle *(d'où l'importance du 'git branch')* du Repository présent en local sur notre ordi.<br/>
 * **`git checkout NomDeLaOuOnVeutAller`** - On indique qu'on va vers: 'Master', ou vers 'NomDeMaBranche'. <br/>
@@ -16,9 +16,9 @@ A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de l
 
 ***
 
-Exemple d'app Heroku:
+**Exemple d'app Heroku:
 * [Le Récif tranquille](https://tranquil-reef-30264.herokuapp.com/).
-* [L'obscure forêt sauvage](https://arcane-wildwood-56064.herokuapp.com).
+* [L'obscure forêt sauvage](https://arcane-wildwood-56064.herokuapp.com).**
 
 ***
 
