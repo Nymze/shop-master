@@ -14,8 +14,10 @@ A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de l
 * **`git push`** - Push ces changements en ligne.<br/>
 <br/>
 ***
+<br/>
 Exemple d'app Heroku: [Le Récif tranquille](https://tranquil-reef-30264.herokuapp.com/).
 Ou encore: [L'obscure forêt sauvage](https://arcane-wildwood-56064.herokuapp.com).
+
 ***
 
 
