@@ -1,5 +1,5 @@
 # Debut de journée - Github
-<br/>
+
 Terminal > cd shop-master <br/>
 **git branch** fin d'être sur qu'on soit sur la branche "Master".<br/>
 <br/>
