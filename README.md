@@ -13,6 +13,7 @@ A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de l
 * **`git merge NomDeLaBrancheAMerger`** - On va appliquer nos modifs, fais dansn otre branche, à la branche *Master*.<br/>
 * **`git push`** - Push ces changements en ligne.<br/>
 <br/>
+
 ***
 
 Exemple d'app Heroku:
