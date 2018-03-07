@@ -1,5 +1,5 @@
 # Debut de journée - Github
-
+<br/>
 Terminal > cd shop-master <br/>
 **git branch** fin d'être sur qu'on soit sur la branche "Master".<br/>
 <br/>
@@ -23,7 +23,6 @@ A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de l
 **git push** - Push ces changements en ligne.<br/>
 <br/>
 <br/>
-===============================================================
 
 
 
