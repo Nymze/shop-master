@@ -2,7 +2,7 @@ class CartsController < ApplicationController
 
  
   def show
-    @order_items = current_order.order_items
+    @order_items = current_user.orders
   end
 
 
@@ -15,7 +15,7 @@ class CartsController < ApplicationController
   private
 
     def cart_params
-      params.require(:cart).permit(:name, :user)
+      params.require(:cart).permit(:name, :user, :order_id)
     end
 
 
