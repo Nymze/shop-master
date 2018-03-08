@@ -1,4 +1,13 @@
-# Debut de journée - Github
+# THP - Eshop 
+Alors que les choses soient claires. NOUS NE VENDONS PAS DES CHATS ! Ca va pas de vouloir vendre des animaux ?! Non, on fait dans le Vegetal.
+PS: Nous ne mettons donc pas d'image parceque c'est Illégal dans bien des pays. sinon vous vous doutez bien qu'on en aurait mis.
+
+***
+
+**Notre app Heroku:**
+* [La rivière sans limites](https://limitless-river-63225.herokuapp.com/)
+
+***
 
 **Terminal > cd shop-master** <br/>
 * **`git branch`** fin d'être sur qu'on soit sur la branche "Master".<br/>
@@ -14,12 +23,7 @@ A NOTER: taper `git checkout -b Nom` va créer une branche 'Nom', à partir de l
 * **`git push`** - Push ces changements en ligne.<br/>
 <br/>
 
-***
 
-**Notre app Heroku:**
-* [La rivière sans limites](https://limitless-river-63225.herokuapp.com/)
-
-***
 
 
 
