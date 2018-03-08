@@ -1,5 +1,5 @@
 # THP - Eshop 
-Alors que les choses soient claires. NOUS NE VENDONS PAS DES CHATS ! Ca va pas de vouloir vendre des animaux ?! Non, on fait dans le Vegetal.
+Alors que les choses soient claires. **NOUS NE VENDONS PAS DES CHATS** ! Ca va pas de vouloir vendre des animaux ?! Non, on fait dans le *Vegetal*.<br/>
 PS: Nous ne mettons donc pas d'image parceque c'est Illégal dans bien des pays. sinon vous vous doutez bien qu'on en aurait mis.
 
 ***
